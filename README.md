@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAyesh-07&psig=AOvVaw0OJ361gN4FYAXnDa0Kv6_d&ust=1751278281264000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjb15Gylo4DFQAAAAAdAAAAABBC)]()
+[![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)]()
 
 <h2> Hi 👾, I'm Gimhani Samanalee </h2>
 
