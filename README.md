@@ -2,11 +2,12 @@
 
 <h2> Hi 👾, I'm Gimhani Samanalee </h2>
 
+Web Developer / Mobile App Developer / Programmer / UI Designer
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [gimhanisamanalee@gmail.com](mailto:gimhanisamanalee@gmail.com)
 * 🧠  I'm learning Node js, MongoDB, Java
-* 🤝  I'm open to collaborating on WebDev Projects
+* 🤝  I love to build Web and Mobile App Projects
 
 ### Skills
 <p align="left">
