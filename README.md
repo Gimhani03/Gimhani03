@@ -2,7 +2,7 @@
 
 <h2> Hi 👾, I'm Gimhani Samanalee </h2>
 
-Web Developer / Mobile App Developer / Programmer / UI Designer
+Web Developer / Mobile App Developer / UI Designer
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [gimhanisamanalee@gmail.com](mailto:gimhanisamanalee@gmail.com)
