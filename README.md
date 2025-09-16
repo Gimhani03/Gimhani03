@@ -31,4 +31,12 @@ Web Developer / Mobile App Developer / UI Designer
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
                     </picture>
-                    </a></p>
+                    </a>
+</p>
+
+### GitHub Stats
+<a href="http://www.github.com/Gimhani03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gimhani03&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gimhani03&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gimhani03&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gimhani03&theme=github_dark)
+![Gimhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimhani03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
